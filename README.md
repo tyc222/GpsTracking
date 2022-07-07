@@ -19,6 +19,7 @@ Due to time constrains
 
 **Any copied code, references and 3rd party libraries**
 - All gps related code where found in Google's documentation
+- Had to add Google Play dependency in order for gps functionality to work
 
 **How long you worked on the app for**
 - Because I was working on this after working hours, so I had people come and talk to me. Give or take, around 4 hours
